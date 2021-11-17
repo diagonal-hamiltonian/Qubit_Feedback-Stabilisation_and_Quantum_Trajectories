@@ -3,4 +3,4 @@ Qubit Feedback Stabilisation and Quantum_Trajectories Computational project on f
 
 I leave you with a simulation of the stochastic evolution of the Bloch equations for different detector efficiencies as described in the paper.
 
-<img src="https://github.com/diagonal-hamiltonian/Qubit_Feedback-Stabilisation_and_Quantum_Trajectories/blob/main/imgs/Stochastic_BS_evolution.gif" width="250" height="250" />
+<img src="https://github.com/diagonal-hamiltonian/Qubit_Feedback-Stabilisation_and_Quantum_Trajectories/blob/main/imgs/Stochastic_BS_evolution.gif" width="500" height="500" />
