@@ -5,4 +5,4 @@ The paper deals with how under certain conditions (using feedback-stabilisation)
 
 I leave you with a simulation of the stochastic evolution of the Bloch equations for different detector efficiencies as described in the paper.
 
-<img src="https://github.com/diagonal-hamiltonian/Qubit_Feedback-Stabilisation_and_Quantum_Trajectories/blob/main/imgs/Stochastic_BS_evolution.gif" width="499" height="499" /><img src="https://github.com/diagonal-hamiltonian/Qubit_Feedback-Stabilisation_and_Quantum_Trajectories/blob/main/imgs/Stochastic_BS_evolution_Arrows.gif" width="499" height="499" />
+<img src="https://github.com/diagonal-hamiltonian/Qubit_Feedback-Stabilisation_and_Quantum_Trajectories/blob/main/imgs/Stochastic_BS_evolution.gif" width="400" height="400" /><img src="https://github.com/diagonal-hamiltonian/Qubit_Feedback-Stabilisation_and_Quantum_Trajectories/blob/main/imgs/Stochastic_BS_evolution_Arrows.gif" width="400" height="400" />
